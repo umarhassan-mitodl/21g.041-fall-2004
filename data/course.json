@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ]
+  ],
+  "legacy_uid": "25c2ee71-ddca-0e86-3a56-4e03e007ec61",
+  "instructors": {
+    "content": [
+      "68cf1125-ef07-fa48-f1e7-8416b3856d71"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7e2a6b1a-ea1d-b4ec-6ad1-f50f2b03cd0e",
+    "website": "21g-041-topics-in-south-asian-literature-and-culture-fall-2004"
+  },
+  "course_title": "Topics in South Asian Literature and Culture",
+  "hide_download": true,
+  "course_description": "This subject aims to provide an overview of contemporary texts in regional languages in South Asian Literature and Cinema. We will cover major authors and film makers, writing from Bangladesh, India, Nepal, Pakistan and Sri Lanka. Within India, we will look at authors and directors working in different regional languages and as we examine their different socio-cultural, political and historical contexts we will attempt to understand what it means to study them under the all-unifying category of \"South Asian Literature and Culture\". Some of the major issues we shall explore include caste, gender, globalization and social change. We will end with exploring some of the newer, younger writers and directors and try to analyze some of the thematic and formal shifts in their work. Authors include Ashapurna Devi, Manto, Vijayan, Premchand, Mohanty, and Nasreen and film makers will include Adoor Gopalakrishnan, Satyajit Ray, Shyam Benegal, Aparna Sen and Rituporno Ghosh.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.041",
+  "course_image_thumbnail": {
+    "content": "7d7a56e6-1784-0f2c-8775-4c74b7936fc7",
+    "website": "21g-041-topics-in-south-asian-literature-and-culture-fall-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "74746298-e812-48dd-8e12-5c83c3b42d2c",
+  "site_short_id": "21g.041-fall-2004",
+  "site_url_path": "courses/21g-041-topics-in-south-asian-literature-and-culture-fall-2004",
+  "title": "Course Metadata"
+}
